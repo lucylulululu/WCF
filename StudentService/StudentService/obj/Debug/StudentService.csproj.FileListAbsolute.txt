@@ -1,0 +1,5 @@
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\StudentService\bin\Debug\StudentService.dll.config
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\StudentService\bin\Debug\StudentService.dll
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\StudentService\bin\Debug\StudentService.pdb
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\StudentService\obj\Debug\StudentService.dll
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\StudentService\obj\Debug\StudentService.pdb

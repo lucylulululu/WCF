@@ -1,0 +1,13 @@
+﻿Installing assembly '\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\WinServiceStudentHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = \\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\WinServiceStudentHost.InstallLog
+   assemblypath = \\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\WinServiceStudentHost.exe
+Installing service StudentHostWindowService...
+Service StudentHostWindowService has been successfully installed.
+Creating EventLog source StudentHostWindowService in log Application...
+Committing assembly '\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\WinServiceStudentHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = \\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\WinServiceStudentHost.InstallLog
+   assemblypath = \\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\WinServiceStudentHost.exe

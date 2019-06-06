@@ -1,0 +1,8 @@
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\WinServiceStudentHost.exe.config
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\WinServiceStudentHost.exe
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\WinServiceStudentHost.pdb
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\StudentService.dll
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\bin\Debug\StudentService.pdb
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\obj\Debug\WinServiceStudentHost.csprojResolveAssemblyReference.cache
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\obj\Debug\WinServiceStudentHost.exe
+\\cmsbs\redirectedfolders\cmcglynn\visual studio 2015\Projects\StudentService\WinServiceStudentHost\obj\Debug\WinServiceStudentHost.pdb
